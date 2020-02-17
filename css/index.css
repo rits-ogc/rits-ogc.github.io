@@ -1,0 +1,19 @@
+.header {
+    background-color: darkgray;
+    height: 90px;
+}
+
+.main {
+    background-color: aliceblue;
+    height: 600px;
+}
+
+.footer {
+    background-color: lightblue;
+    height: 270px;
+}
+
+.title {
+    color: black;
+    font-size: 30px;
+}
