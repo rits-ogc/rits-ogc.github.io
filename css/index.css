@@ -5,7 +5,9 @@
 
 .main {
     background-color: aliceblue;
-    height: 600px;
+    color: black;
+    height: 650px;
+    padding: 10px 20px;
 }
 
 .footer {
