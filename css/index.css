@@ -10,7 +10,7 @@
 
 .footer {
     background-color: lightblue;
-    height: 270px;
+    height: 150px;
 }
 
 .header-title {
@@ -22,6 +22,7 @@
 
 .header-url {
     font-size: 20px;
+    text-decoration: none;
 }
 
 .header-links {
@@ -36,7 +37,7 @@
 }
 
 .header-links li {
-    float: left;
+    float: right;
     list-style: none;
     padding: 30px 20px;
 }
@@ -44,9 +45,13 @@
 .footer-list li {
     list-style: none;
     font-size: 20px;
-    padding: 10px 20px;
+    padding: 8px 20px;
 }
 
 .footer-list {
     float: right;
+}
+
+.footer-url {
+    text-decoration: none;
 }
